@@ -31,7 +31,7 @@ export const Container = styled.section`
     justify-content: space-between;
     gap: 1rem;
     padding-top:5rem;
-    padding-left:1rem;
+    // padding-left:1rem;
 
     img,span{
       font-size: 3rem;
@@ -42,7 +42,7 @@ export const Container = styled.section`
 
   .button{
     margin-top: 5rem;
-    padding: 1.4rem 6rem;
+    padding: 1.4rem 4rem;
   }
 
   .hero-image{

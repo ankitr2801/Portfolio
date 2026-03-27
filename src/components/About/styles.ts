@@ -48,10 +48,17 @@ export const Container = styled.section`
   .about-image{
     text-align: center;
    img{
-     margin-top: 2rem;
-     width: 75%;
-     filter: grayscale(0);
-     transition: filter 0.5s;
+        margin-top: 2rem;
+    width: 75%;
+    -webkit-filter: grayscale(0);
+    filter: grayscale(0);
+    -webkit-transition: filter 0.5s;
+    transition: filter 0.5s;
+    width: 638px;
+    height: 580px;
+    border-radius: 53%;
+    object-fit: cover;
+     
      &:hover{
        filter: grayscale(0);
      }
@@ -63,10 +70,16 @@ export const Container = styled.section`
       max-width: 100%;
       margin-top: 4rem;
       img{
-        margin-top: 2rem;
-        width: 100%;
-        filter: grayscale(0);
-        transition: filter 0.5s;
+            margin-top: 2rem;
+    width: 100%;
+    -webkit-filter: grayscale(0);
+    filter: grayscale(0);
+    -webkit-transition: filter 0.5s;
+    transition: filter 0.5s;
+    width: 638px;
+    height: 580px;
+    border-radius: 53%;
+    object-fit: cover;
         &:hover{
           filter: grayscale(0);
         }
@@ -84,10 +97,16 @@ export const Container = styled.section`
       display: flex;
       max-width: 100%;
       img{
-        margin-top: 2rem;
-        width: 100%;
-        filter: grayscale(0);
-        transition: filter 0.5s;
+            margin-top: 2rem;
+    width: 100%;
+    -webkit-filter: grayscale(0);
+    filter: grayscale(0);
+    -webkit-transition: filter 0.5s;
+    transition: filter 0.5s;
+    width: 638px;
+    height: 580px;
+    border-radius: 53%;
+    object-fit: cover;
         &:hover{
           filter: grayscale(0);
         }

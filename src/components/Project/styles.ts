@@ -36,7 +36,7 @@ export const Container = styled.section`
         align-items: center;
         justify-content: space-between;
         color: var(--blue);
-        margin-bottom: 3.6rem;
+        margin-bottom: 1.6rem;
         .project-links{
           display: flex;
           align-items: center;
@@ -77,6 +77,14 @@ export const Container = styled.section`
 
     }
   }
+
+  .project-image img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
 
   @media (max-width: 960px){
     .projects{
