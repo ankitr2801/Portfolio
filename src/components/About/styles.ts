@@ -76,8 +76,8 @@ export const Container = styled.section`
     filter: grayscale(0);
     -webkit-transition: filter 0.5s;
     transition: filter 0.5s;
-    width: 638px;
-    height: 580px;
+    width: 310px;
+    height: 280px;
     border-radius: 53%;
     object-fit: cover;
         &:hover{
@@ -103,8 +103,8 @@ export const Container = styled.section`
     filter: grayscale(0);
     -webkit-transition: filter 0.5s;
     transition: filter 0.5s;
-    width: 638px;
-    height: 580px;
+   width: 310px;
+    height: 280px;
     border-radius: 53%;
     object-fit: cover;
         &:hover{

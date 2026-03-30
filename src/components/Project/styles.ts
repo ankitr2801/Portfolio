@@ -92,6 +92,11 @@ export const Container = styled.section`
     }
   }
 
+  @media (min-width: 360px) and (max-width: 740px) {
+  width: 100%;
+  max-width: 350px;
+}
+
   @media (max-width: 740px){
     .projects{
       grid-template-columns: 1fr;

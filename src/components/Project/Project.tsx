@@ -21,7 +21,7 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"><title>Folder</title> <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path> </svg>
               <div className="project-links">
-                <a href="hhttps://github.com/ankitr2801/Astrology" target="_blank" rel="noreferrer">
+                <a href="https://github.com/ankitr2801/Astrology" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /> </a>
                 <a href="https://www.vedicvision.guru/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" /></a>
@@ -34,7 +34,7 @@ export function Project() {
 
             <div className="body">
               <h3>Vedic Vision - Spiritual & Content Management Website</h3>
-              <p style={{ textAlign: "justify" }}>
+              <p >
                 Developed and maintained a dynamic website for Vedic Vision, focused on delivering
                 spiritual content, articles, and user-friendly navigation. Implemented responsive UI,
                 optimized performance, and ensured seamless content management experience.
@@ -42,10 +42,9 @@ export function Project() {
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Asp.net Core</li>
+                <li>Asp.net</li>
                 <li>SQL</li>
-                <li>HTML</li>
-                <li>CSS</li>
+        
                 <li>JavaScript</li>
                 <li>Bootstrap</li>
               </ul>
@@ -85,10 +84,10 @@ export function Project() {
 
             <footer>
               <ul className="tech-list">
-                <li>ASP.NET Core</li>
+                <li>ASP.NET </li>
                 <li>C#</li>
-                <li>SQL Server</li>
-                <li>ASP.NET Web api</li>
+                <li>SQL </li>
+                <li>Web api</li>
 
               </ul>
             </footer>
@@ -111,9 +110,9 @@ export function Project() {
               </div>
             </header>
 
-            {/* 🔥 Project Image */}
+          {/* //  🔥 Project Image */}
             <div className="project-image">
-              {/* <img src={employeeImg} alt="Employee Management System" /> */}
+           
             </div>
 
             <div className="body">
@@ -129,10 +128,10 @@ export function Project() {
               <ul className="tech-list">
                 <li>ASP.NET Web Api</li>
                 <li>React</li>
-                <li>SQL Server</li>
-                <li>Bootstrap</li>
+                <li>SQL </li>
+   
                 <li>Javascript</li>
-                <li>Bootstrap</li>
+      
               </ul>
             </footer>
 
@@ -169,7 +168,7 @@ export function Project() {
             <footer>
               <ul className="tech-list">
                 <li>Asp.net MVC </li>
-                <li>Asp.net Web Api </li>
+             
                 <li>JavaScript</li>
                 <li>Bootstrap</li>
                 <li>SQL Server</li>
@@ -209,7 +208,7 @@ export function Project() {
                 <li>C# </li>
                 <li>JQuery</li>
                 <li>Bootstrap</li>
-                <li>SQL Server</li>
+                <li>SQL </li>
               </ul>
             </footer>
 
