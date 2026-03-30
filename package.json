@@ -23,9 +23,10 @@
   },
   "scripts": {
   "start": "react-scripts start",
- "build": "echo build already done",
+"build": "echo build already done",
 
   "test": "react-scripts test",
+  
   "eject": "react-scripts eject"
 },
   "engines": {
