@@ -23,8 +23,8 @@
   },
   "scripts": {
   "start": "react-scripts start",
-"build": "echo build already done",
-
+// "build": "echo build already done",
+ "build": "react-scripts build"
   "test": "react-scripts test",
   
   "eject": "react-scripts eject"
