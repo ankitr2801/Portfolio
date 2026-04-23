@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.46961403.css",
-    "main.js": "/static/js/main.28589bcd.js",
+    "main.js": "/static/js/main.59b0d6ec.js",
     "static/media/ankit_2.png": "/static/media/ankit_2.4e7e09f100caff5da5b8.png",
     "static/media/Hello.gif": "/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/vedic.png": "/static/media/vedic.b7f79df7a9d0dbf9b91d.png",
@@ -38,10 +38,10 @@
     "static/media/vue-icon.svg": "/static/media/vue-icon.7219cc0384993fc067ee20c94a66b1e9.svg",
     "static/media/nextdotjs.svg": "/static/media/nextdotjs.7ff86746ec25a6637a0f1b80a9d20332.svg",
     "main.46961403.css.map": "/static/css/main.46961403.css.map",
-    "main.28589bcd.js.map": "/static/js/main.28589bcd.js.map"
+    "main.59b0d6ec.js.map": "/static/js/main.59b0d6ec.js.map"
   },
   "entrypoints": [
     "static/css/main.46961403.css",
-    "static/js/main.28589bcd.js"
+    "static/js/main.59b0d6ec.js"
   ]
 }
